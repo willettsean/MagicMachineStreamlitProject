@@ -1,2 +1,2 @@
 # MagicMachineStreamlitProject
-The goal: use the Streamlit python package to create an analytics website for the NFT projects supported by Magic Machine. 
+Welcome to my personal project. The goal is to use OpenSea's API and Streamlit to create a personal analytics page for NFTs I follow. 
